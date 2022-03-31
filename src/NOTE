@@ -1,0 +1,5 @@
+I have used 'json server' package to watch data on server, like working on database server.
+So, you need to install 'json server',
+Then run this command in terminal "json-server --watch src/data/store-data.json" to show the data on live server.
+
+Sorry, for doing this behavior. 😄
